@@ -1,4 +1,26 @@
 https://www.hackerrank.com
 
-Domain :
-	1.  Algorithms
+HackerRank
+├── Algorithms
+│   ├── 1.Warmup
+│   │   ├── a-very-big-sum.c
+│   │   ├── diagonal-difference.c
+│   │   ├── plus-minus.c
+│   │   ├── simple-array-sum.c
+│   │   ├── solve-me-first.c
+│   │   ├── staircase.c
+│   │   └── time-conversion.c
+│   └── 2.Implementation
+│       ├── acm-icpc-team.c
+│       ├── angry-professor.c
+│       ├── caesar-cipher-1.c
+│       ├── cavity-map.c
+│       ├── cut-the-sticks.c
+│       ├── encryption.c
+│       ├── extra-long-factorials.c
+│       ├── find-digits.c
+│       ├── library-fine.c
+│       ├── service-lane.c
+│       ├── sherlock-and-the-beast.c
+│       └── utopian-tree.c
+└── README
