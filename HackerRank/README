@@ -22,5 +22,8 @@ HackerRank
 │       ├── library-fine.c
 │       ├── service-lane.c
 │       ├── sherlock-and-the-beast.c
+│       ├── taum-and-bday.c
+│       ├── the-grid-search.c
+│       ├── the-time-in-words.c
 │       └── utopian-tree.c
-└── README
+└── README  
