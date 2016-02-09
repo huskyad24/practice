@@ -10,20 +10,38 @@ HackerRank
 │   │   ├── solve-me-first.c
 │   │   ├── staircase.c
 │   │   └── time-conversion.c
-│   └── 2.Implementation
-│       ├── acm-icpc-team.c
-│       ├── angry-professor.c
-│       ├── caesar-cipher-1.c
-│       ├── cavity-map.c
-│       ├── cut-the-sticks.c
-│       ├── encryption.c
-│       ├── extra-long-factorials.c
-│       ├── find-digits.c
-│       ├── library-fine.c
-│       ├── service-lane.c
-│       ├── sherlock-and-the-beast.c
-│       ├── taum-and-bday.c
-│       ├── the-grid-search.c
-│       ├── the-time-in-words.c
-│       └── utopian-tree.c
-└── README  
+│   ├── 2.Implementation
+│   │   ├── acm-icpc-team.c
+│   │   ├── angry-professor.c
+│   │   ├── caesar-cipher-1.c
+│   │   ├── cavity-map.c
+│   │   ├── cut-the-sticks.c
+│   │   ├── encryption.c
+│   │   ├── extra-long-factorials.c
+│   │   ├── find-digits.c
+│   │   ├── library-fine.c
+│   │   ├── service-lane.c
+│   │   ├── sherlock-and-the-beast.c
+│   │   ├── taum-and-bday.c
+│   │   ├── the-grid-search.c
+│   │   ├── the-time-in-words.c
+│   │   └── utopian-tree.c
+│   └── 3.Strings
+│   │   ├── alternating-characters.c
+│   │   ├── anagram.c
+│   │   ├── funny-string.c
+│   │   ├── gem-stones.c
+│   │   ├── make-it-anagram.c
+│   │   ├── morgan-and-a-string.c
+│   │   ├── palindrome-index.c
+│   │   ├── pangrams.c
+│   │   ├── sherlock-and-anagrams.c
+│   │   ├── the-love-letter-mystery.c
+│   │   └── two-strings.c
+│   └── 4.Sorting
+│       ├── correctness-invariant.c
+│       ├── insertionsort1.c
+│       ├── insertionsort2.c
+│       ├── runningtime.c
+│       └── tutorial-intro.c
+└── README
