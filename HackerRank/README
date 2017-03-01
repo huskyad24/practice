@@ -26,15 +26,17 @@ HackerRank
 │   │   ├── the-grid-search.c
 │   │   ├── the-time-in-words.c
 │   │   └── utopian-tree.c
-│   └── 3.Strings
+│   ├── 3.Strings
 │   │   ├── alternating-characters.c
 │   │   ├── anagram.c
+│   │   ├── camelcase.c
 │   │   ├── funny-string.c
 │   │   ├── gem-stones.c
 │   │   ├── make-it-anagram.c
 │   │   ├── morgan-and-a-string.c
 │   │   ├── palindrome-index.c
 │   │   ├── pangrams.c
+│   │   ├── reverse-shuffle-merge.c
 │   │   ├── sherlock-and-anagrams.c
 │   │   ├── the-love-letter-mystery.c
 │   │   └── two-strings.c
@@ -45,3 +47,4 @@ HackerRank
 │       ├── runningtime.c
 │       └── tutorial-intro.c
 └── README
+
